@@ -1,0 +1,6 @@
+inicio de git
+git agregar README.md
+git config --global usuario.name "Tu Nombre"
+git config --global user.email "tu-correo@example.com"
+git config --global color.ui auto
+git config --global --list
